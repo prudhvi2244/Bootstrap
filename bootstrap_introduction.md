@@ -22,6 +22,6 @@
 * There are two ways to start using Bootstrap 4 on your own web site.
 
     * Include Bootstrap 4 from a CDN
-    * Download Bootstrap 4 from getbootstrap.com
+    * Download Bootstrap 4 from http://www.getbootstrap.com
 
 
