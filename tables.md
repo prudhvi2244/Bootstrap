@@ -25,7 +25,9 @@
 * The .table-borderless class removes borders from the table
 
 # Contextual Classes
-* Contextual classes can be used to color the whole table (<table>),  the table rows (<tr>) or table cells (<td>)
+
+* Contextual classes can be used to color the whole table (<table>),  the table rows (<tr>) or table cells (<td>)  
+
 
 # The contextual classes that can be used are
 
@@ -47,10 +49,11 @@
 
 
 # Responsive Tables
-# The .table-responsive class adds a scrollbar to the table when needed (when it is too big horizontally)
+
+* The .table-responsive class adds a scrollbar to the table when needed (when it is too big horizontally)
 
 
-# You can also decide when the table should get a scrollbar, depending on screen width:
+* You can also decide when the table should get a scrollbar, depending on screen width:
 
     * Class	                 Screen width
     * .table-responsive-sm  < 576px
